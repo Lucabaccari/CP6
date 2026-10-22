@@ -2,7 +2,7 @@
 
 Portfólio pessoal criado para apresentar minha trajetória como estudante de Engenharia de Software na FIAP e minha atuação em Gerenciamento de Serviços de TI (ITSM) na Pluxee. A página reúne projetos, conhecimentos técnicos, formação e canais de contato em uma experiência de navegação única, responsiva e acessível.
 
-> **Status:** projeto concluído e preparado para publicação. O endereço do deploy será adicionado aqui após a hospedagem.
+> **Status:** projeto concluído e publicado. [Acessar o portfólio](https://lucabaccari.github.io/CP6/) · [Ver repositório](https://github.com/Lucabaccari/CP6)
 
 ## Sobre o projeto
 
@@ -90,7 +90,12 @@ As referências visuais, decisões de identidade, prompt inicial e rodadas de co
 
 ## Publicação
 
-A aplicação gera uma versão estática otimizada na pasta `dist/`, adequada para serviços de hospedagem de front-end. Após o deploy, o link público será incluído no início deste documento e na seção de resultado final do registro de processo.
+O portfólio está publicado no GitHub Pages:
+
+- **Deploy:** [lucabaccari.github.io/CP6](https://lucabaccari.github.io/CP6/)
+- **Código-fonte:** [github.com/Lucabaccari/CP6](https://github.com/Lucabaccari/CP6)
+
+A publicação é automatizada pelo workflow em `.github/workflows/deploy.yml`. A cada novo envio para as branches `main` ou `master`, o GitHub Actions instala as dependências, gera o build do Vite e publica a pasta `dist/`. O Vite utiliza caminhos relativos compatíveis com o endereço de projeto do GitHub Pages.
 
 ## Créditos
 

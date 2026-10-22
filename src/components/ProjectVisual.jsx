@@ -39,7 +39,7 @@ export default function ProjectVisual({ type, title }) {
     return (
       <figure className="project-visual codecam-cover">
         <img
-          src="/assets/codecam-cover.png"
+          src="./assets/codecam-cover.png"
           alt="Capa do Code-Cam com a proposta educacional e um celular fotografando anotações de uma aula"
           width="1536"
           height="1024"

@@ -72,7 +72,7 @@ function App() {
               </div>
               <figure className="profile-photo">
                 <img
-                  src="/assets/luca-profile-blue.png"
+                  src="./assets/luca-profile-blue.png"
                   alt="Retrato de Luca Baccari sorrindo e usando uma camisa polo preta"
                   width="1536"
                   height="1024"
@@ -190,7 +190,7 @@ function App() {
                               <span className="orbit-node-content" title={technology.name}>
                                 <img
                                   className={technology.monochrome ? 'is-monochrome' : ''}
-                                  src={`/assets/tech/${technology.icon}`}
+                                  src={`./assets/tech/${technology.icon}`}
                                   alt=""
                                 />
                                 <small>{technology.name}</small>

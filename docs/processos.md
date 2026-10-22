@@ -259,6 +259,6 @@ Priorize uma primeira versão funcional, visualmente consistente e fácil de rev
 
 ## 3.5 Resultado final
 
-- **Repositório do portfólio:** _a preencher_.
-- **Deploy do portfólio:** _a preencher_.
+- **Repositório do portfólio:** [github.com/Lucabaccari/CP6](https://github.com/Lucabaccari/CP6)
+- **Deploy do portfólio:** [lucabaccari.github.io/CP6](https://lucabaccari.github.io/CP6/)
 - **Breve reflexão:** para ser sincero, o resultado ficou melhor do que eu esperava. Consegui reunir boas referências de portfólios brasileiros e adaptá-las ao meu estilo e às minhas preferências. Nesta atividade, utilizei pela primeira vez o Codex e me surpreendi tanto com a qualidade do processo de desenvolvimento quanto com o resultado final.
